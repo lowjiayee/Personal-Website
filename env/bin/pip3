@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/mnt/c/Users/JiaYee/Documents/School Stuff/Semester 4/HacknRoll/env/bin/python3.6" "$0" "$@"
+'''exec' "/mnt/c/Users/JiaYee/Documents/School Stuff/Semester 4/HacknRoll/personal-website/env/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

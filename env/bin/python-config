@@ -1,4 +1,4 @@
-#!/mnt/c/Users/JiaYee/Documents/School Stuff/Semester 4/HacknRoll/env/bin/python
+#!/mnt/c/Users/JiaYee/Documents/School Stuff/Semester 4/HacknRoll/personal-website/env/bin/python
 
 import sys
 import getopt
